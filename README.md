@@ -14,7 +14,7 @@ By using a batch, you will be able to share meshes between your Unity characters
 - Makehuman import mhx2 blender addon ( to import .MHX2 in blender ) https://github.com/makehumancommunity/mhx2-makehuman-exchange
 
 ## Convert process
-- Info : You can move directly to step 13. if you just want to try the batch script.
+- Info : You can move directly to step xiii. if you just want to try the batch script.
 - 1. Download and install Blender 2.8+ if required
 - 2. Download and install Makehuman if required
 - 3. Download Makehuman import mhx2 blender addon (Download Zip https://github.com/makehumancommunity/mhx2-makehuman-exchange)
@@ -28,5 +28,5 @@ By using a batch, you will be able to share meshes between your Unity characters
 You can try to import your MHX2 by opening the MHX2 Runtime Blender Panel ( click on the + in the right side close to the Outliner window ), and click on the button Import MHX2 button. 
 - 11. Download this repository
 - 12. Move any number of mhx2 files you created on step 8. in the repository Directory called "Converter"
-- 13. Run the powershell script (batchMakehumanMhxBlenderConverter.ps1). The batch script will be executed for each mhx2 file located in Converter folder. Close Blender for each operation in order to execute the next operation. The fbx files converted in the process are located in Converter/Exports folder
+- 13. Run the powershell script ([batchMakehumanMhxBlenderConverter.ps1](https://github.com/sachaamm/sachaamm_makehuman_io_batch/blob/main/Converter/batchMakehumanMhxBlenderConverter.ps1)). The batch script will be executed for each mhx2 file located in Converter folder. Close Blender for each operation in order to execute the next operation. The fbx files converted in the process are located in Converter/Exports folder
 
