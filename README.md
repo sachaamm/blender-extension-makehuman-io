@@ -1,5 +1,7 @@
 # blender-makehuman-mhx2-io-batch
 Disclaimer : Because the batch script is a powershell, Windows Only ( I don't know which Powershell features are supported on MacOs/Linux )
+
+## Purpose
 The purpose of this batch is to gain time and avoid repetitive tasks by automate mhx2 blender conversion. 
 The script will inject a mhx2 in blender and output a fbx file via scripting.
 This can be usefull is your game characters are modelled in Blender and rendered in Unity. Blender is outputing an alternative space orientation 
